@@ -1,16 +1,11 @@
-# Hytale Plugin Template
+Tpa for Hytale
 
-A template for Hytale java plugins. Created by [Up](https://github.com/UpcraftLP), and slightly modified by Kaupenjoe. 
+accessible commands
 
-### Configuring the Template
-If you for example installed the game in a non-standard location, you will need to tell the project about that.
-The recommended way is to create a file at `%USERPROFILE%/.gradle/gradle.properties` to set these properties globally.
+/tpa <PlayerName> - teleport to player
 
-```properties
-# Set a custom game install location
-hytale.install_dir=path/to/Hytale
+/tpa accept - accept teleport from player
 
-# Speed up the decompilation process significantly, by only including the core hytale packages.
-# Recommended if decompiling the game takes a very long time on your PC.
-hytale.decompile_partial=true
-```
+/tpa decline - reject teleport from player
+
+To make the teleport work, you must wait 5 seconds without moving
