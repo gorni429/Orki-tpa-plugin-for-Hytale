@@ -1,11 +1,13 @@
-Tpa for Hytale
+<span style="color: #e03e2d;"><strong>Tpa for Hytale</strong></span>
 
-accessible commands
+____**accessible commands**____
 
-/tpa <PlayerName> - teleport to player
+/tpa <PlayerName> - **teleport to player**
 
-/tpa accept - accept teleport from player
+/tpa accept - **accept teleport from player**
 
-/tpa decline - reject teleport from player
+/tpa decline - **reject teleport from player**
 
-To make the teleport work, you must wait 5 seconds without moving
+ 
+
+<span style="color: #169179;"><strong>To make the teleport work, you must wait 5 seconds without moving</strong></span>
